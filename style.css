@@ -1,0 +1,48 @@
+.fond{
+    width: 500px;
+    height: 300px;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: -1px -1px 5px 1px rgba(0, 0, 0, 0.47);
+}
+.gauche{
+    width: 200px;
+    height: 300px;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+.separation{
+    width: 1px;
+    height: 250px;
+    position: relative;
+    bottom: 350px;
+}
+.image{
+    width: 50px;
+    height: 75px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 620px;
+    left: 425px;
+}
+.ligne{
+    width: 200px;
+    height: 1px;
+    position: relative;
+    left: 125px;
+    bottom: 550px;
+}
+.CP1, .CP2, .CP3, .CP4, .CP5{
+    width: 15px;
+    height: 20px;
+    border: 1px solid black;
+    display: inline-block;
+    position: relative;
+    left: 270px;
+    bottom: 500px;
+}
+.bas{
+    width: 100px;
+    position: relative;
+    bottom: 515px;
+    left: 180px;
+}
